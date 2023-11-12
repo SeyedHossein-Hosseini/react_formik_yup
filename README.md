@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+Formik is a library that handles forms in react easily.
+Yup is a library that creates over formik to handle form validation in react. 
+combination of Formik and Yup in react, can satisfy form operations in a suitable way. 
 
 ## Available Scripts
 
